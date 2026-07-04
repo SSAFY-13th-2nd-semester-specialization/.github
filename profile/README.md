@@ -3,7 +3,7 @@
 <img src="./banner.png" alt="banner-image" width="100%" />
 
 <h1>NewSpeaking</h1>
-<h3>음소 단위 발음 분석 기반 영어 회화 학습 플랫폼</h3>
+<h3>최신 뉴스 기반 AI 프리토킹 연습 플랫폼</h3>
 
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2.0-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![React](https://img.shields.io/badge/React-19.1-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
@@ -12,7 +12,7 @@
 [![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
 [![License](https://img.shields.io/badge/License-Private-red?style=flat-square)]()
 
-사용자의 발화를 음소 단위로 분석해 잘못된 발음을 정확히 짚어주고 교정 방향을 제시하는 영어 발음 학습 서비스
+최신 뉴스 영어 단어 데이터 및 음소 분석 특화 AI 모델 기반 영어 프리토킹 연습 서비스
 
 </div>
 
