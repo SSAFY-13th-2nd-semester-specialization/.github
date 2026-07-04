@@ -131,7 +131,7 @@
 
 <div align="center">
 
-본 프로젝트의 모든 권리는 [SSAFY](https://www.ssafy.com/)에 있으며, 무단 복제·배포·사용을 금합니다.
+본 프로젝트의 모든 권리는 [SSAFY](https://www.ssafy.com/)에 있으며, 무단 복제·배포·사용·노출을 금합니다.
 
 © 2025 [SSAFY](https://www.ssafy.com/). All rights reserved.
 
