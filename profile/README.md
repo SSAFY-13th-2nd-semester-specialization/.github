@@ -5,7 +5,7 @@
 <h1>NewSpeaking</h1>
 <h3>최신 뉴스 기반 AI 프리토킹 연습 플랫폼</h3>
 
-<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3c6.svg" alt="award" height="16" align="top" /> <strong>SSAFY 13기 자율 프로젝트 우수상</strong> <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3c6.svg" alt="award" height="16" align="top" />
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3c6.svg" alt="award" height="16" align="top" /> <strong>SSAFY 13기 특화 프로젝트 우수상</strong> <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3c6.svg" alt="award" height="16" align="top" />
 
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2.0-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![React](https://img.shields.io/badge/React-19.1-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
